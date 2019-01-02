@@ -3,7 +3,6 @@ package com.pdonatilio.cursomc;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
 
-import org.aspectj.weaver.patterns.ITokenSource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
